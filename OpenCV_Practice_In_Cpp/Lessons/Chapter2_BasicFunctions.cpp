@@ -9,7 +9,8 @@ using namespace std;
 
 ///////////////  Basic Functions  //////////////////////
 
-void main() {
+void main()
+{
 
 	string path = "Resources/test.png";
 	Mat img = imread(path);
