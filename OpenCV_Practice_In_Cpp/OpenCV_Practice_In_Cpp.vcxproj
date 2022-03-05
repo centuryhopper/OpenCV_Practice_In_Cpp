@@ -19,7 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Lessons\Chapter6_ColorDetection.cpp" />
+    <ClCompile Include="Lessons\Chapter7_ShapeAndContourDetection.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
