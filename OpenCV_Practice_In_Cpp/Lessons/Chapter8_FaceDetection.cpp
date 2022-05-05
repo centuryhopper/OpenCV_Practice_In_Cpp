@@ -12,7 +12,6 @@ using namespace std;
 
 void main()
 {
-
 	string path = "Resources/test.png";
 	Mat img = imread(path);
 
